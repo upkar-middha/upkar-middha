@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @upkar-middha ;
-- 1st year B.Tech C.S. student at NIT kurukshetra;
-- 🌱 I’m currently learning 'C';
-- 📫 linked in:- www.linkedin.com/in/upkar-middha-5123b8286
+- 3rd year B.Tech C.S. student at NIT kurukshetra;
+- Currently developing in .NET framework for x86 desktop applications  
 
 <!---
 upkar-middha/upkar-middha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
